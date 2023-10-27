@@ -4,8 +4,6 @@
 ## AIM
 To develop a Django application to store and retrieve data from a Football Players database using Object Relational Mapping(ORM).
 
-
-
 ## DESIGN STEPS
 
 ### STEP 1:
@@ -48,7 +46,5 @@ class football_playerAdmin(admin.ModelAdmin):
 
 ![Alt text](<../ORM1/Screenshot 2023-10-13 215053-1.png>)
 
-
-
 ## RESULT
-Thus the program for creating a database using ORM hass been executed successfully
+Thus the program for creating a database using ORM hass been executed successfully.
