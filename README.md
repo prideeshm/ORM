@@ -43,8 +43,7 @@ class football_playerAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-
-![Alt text](<../ORM1/Screenshot 2023-10-13 215053-1.png>)
+![Alt text](<Screenshot 2023-10-13 215053-1.png>)
 
 ## RESULT
-Thus the program for creating a database using ORM hass been executed successfully.
+Thus the program for creating a database using ORM hass been executed successfully
